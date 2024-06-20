@@ -5,15 +5,7 @@
 
 This project explores the application of  sentiment analysis techniques to enhance stock trading strategies. It combines natural language processing (NLP) with financial market data to develop and evaluate a sentiment-adjusted trading approach. Key aspects covered include data collection, sentiment analysis, model development, strategy implementation, performance evaluation, and actionable recommendations.
 
----
-Sure, here is a README template structured similarly to the example you provided, tailored for a sentiment analysis and stock price prediction project:
-
----
-
-# 
-
-  
-
+ 
 ## Project Structure
 
 ```
