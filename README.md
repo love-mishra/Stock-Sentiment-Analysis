@@ -35,7 +35,7 @@ sentiment-analysis-for-stock-trading/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/love-mishra/sentiment-analysis-stock-prediction.git
+   git clone https://github.com/love-mishra/Stock-Sentiment-Analysis.git
    cd Stock-Sentiment-analysis
    ```
 
